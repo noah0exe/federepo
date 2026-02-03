@@ -6,9 +6,9 @@ const SONGS = [
   { id: "canzone-5",  title: "When I was your man",  artist: "Bruno Mars",  cover: "img/cover-5.jpg",  lyricsPage: "testi/canzone-5.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-6",  title: "Versace on the floor",  artist: "Bruno Mars",  cover: "img/cover-6.jpg",  lyricsPage: "testi/canzone-6.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-7",  title: "Uptown funk",  artist: "Bruno Mars",  cover: "img/cover-7.jpg",  lyricsPage: "testi/canzone-7.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-8",  title: "Titolo Canzone 8",  artist: "Artista 8",  cover: "img/cover-8.jpg",  lyricsPage: "testi/canzone-8.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-9",  title: "Titolo Canzone 9",  artist: "Artista 9",  cover: "img/cover-9.jpg",  lyricsPage: "testi/canzone-9.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-10", title: "Titolo Canzone 10", artist: "Artista 10", cover: "img/cover-10.jpg", lyricsPage: "testi/canzone-10.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-8",  title: "Stay with me",  artist: "Sam Smith",  cover: "img/cover-8.jpg",  lyricsPage: "testi/canzone-8.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-9",  title: "I'm not the only one",  artist: "Sam Smith",  cover: "img/cover-9.jpg",  lyricsPage: "testi/canzone-9.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-10", title: "Daisies", artist: "Justin Bieber", cover: "img/cover-10.jpg", lyricsPage: "testi/canzone-10.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
 
   { id: "canzone-11", title: "Titolo Canzone 11", artist: "Artista 11", cover: "img/cover-11.jpg", lyricsPage: "testi/canzone-11.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-12", title: "Titolo Canzone 12", artist: "Artista 12", cover: "img/cover-12.jpg", lyricsPage: "testi/canzone-12.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
@@ -43,5 +43,6 @@ const SONGS = [
   { id: "canzone-39", title: "Titolo Canzone 39", artist: "Artista 39", cover: "img/cover-39.jpg", lyricsPage: "testi/canzone-39.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-40", title: "Titolo Canzone 40", artist: "Artista 40", cover: "img/cover-40.jpg", lyricsPage: "testi/canzone-40.html", links:{ spotify:"#", apple:"#", youtube:"#"} }
 ];
+
 
 
