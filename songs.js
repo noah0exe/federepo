@@ -1,6 +1,6 @@
 const SONGS = [
   { id: "canzone-1",  title: "Just The Way You Are",  artist: "Bruno Mars",  cover: "img/cover-1.jpg",  lyricsPage: "testi/canzone-1.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-2",  title: "Titolo Canzone 2",  artist: "Artista 2",  cover: "img/cover-2.jpg",  lyricsPage: "testi/canzone-2.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-2",  title: "Lazy Song",  artist: "Bruno Mars",  cover: "img/cover-2.jpg",  lyricsPage: "testi/canzone-2.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-3",  title: "Titolo Canzone 3",  artist: "Artista 3",  cover: "img/cover-3.jpg",  lyricsPage: "testi/canzone-3.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-4",  title: "Titolo Canzone 4",  artist: "Artista 4",  cover: "img/cover-4.jpg",  lyricsPage: "testi/canzone-4.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-5",  title: "Titolo Canzone 5",  artist: "Artista 5",  cover: "img/cover-5.jpg",  lyricsPage: "testi/canzone-5.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
@@ -43,3 +43,4 @@ const SONGS = [
   { id: "canzone-39", title: "Titolo Canzone 39", artist: "Artista 39", cover: "img/cover-39.jpg", lyricsPage: "testi/canzone-39.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-40", title: "Titolo Canzone 40", artist: "Artista 40", cover: "img/cover-40.jpg", lyricsPage: "testi/canzone-40.html", links:{ spotify:"#", apple:"#", youtube:"#"} }
 ];
+
