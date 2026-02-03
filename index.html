@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Le mie canzoni - Index</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="wrap">
+    <div class="topbar">
+      <div class="brand">
+        <h1>Le mie canzoni</h1>
+        <p>Hub offline con link e testi</p>
+      </div>
+      <div class="nav">
+        <a href="#canzoni">Canzoni</a>
+        <a href="#info">Info</a>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="row">
+        <div class="search">
+          <input id="q" type="text" placeholder="Cerca una canzone o artista..." />
+        </div>
+        <div class="small" id="count"></div>
+      </div>
+      <div class="hr"></div>
+      <div class="small">
+        Suggerimento: le pagine testo funzionano offline. I link esterni apriranno il browser se sei online.
+      </div>
+    </div>
+
+    <h2 class="page-title" id="canzoni">Canzoni</h2>
+    <div class="grid" id="grid"></div>
+
+    <div class="panel" id="info">
+      <h2 class="page-title" style="margin-top:0">Info</h2>
+      <div class="small">
+        Per aggiungere o modificare brani: edita <b>songs.js</b> e crea/modifica la pagina corrispondente in <b>testi/</b>.<br>
+        © 2026 – Tutti i diritti riservati
+      </div>
+    </div>
+
+    <div class="footer">
+      File offline. Nessun account. Nessun tracking.
+    </div>
+  </div>
+
+  <script src="songs.js"></script>
+  <script>
+    const grid = document.getElementById("grid");
+    const q = document.getElementById("q");
+    const count = document.getElementById("count");
+
+    function card(song){
+      const safeCover = song.cover ? song.cover : "";
+      
+      const el = document.createElement("div");
+      el.className = "card";
+      el.dataset.title = (song.title || "").toLowerCase();
+      el.dataset.artist = (song.artist || "").toLowerCase();
+
+      el.innerHTML = `
+        <div class="card-head">
+          <img class="cover" src="${safeCover}" alt="Cover">
+          <div class="meta">
+            <p class="title">${song.title}</p>
+            <p class="subtitle">${song.artist}</p>
+          </div>
+        </div>
+
+        <div class="card-links">
+          <a class="btn primary" href="${song.lyricsPage}">Testo</a>
+                  </div>
+      `;
+      return el;
+    }
+
+    function render(list){
+      grid.innerHTML = "";
+      list.forEach(s => grid.appendChild(card(s)));
+      count.textContent = `${list.length} brani`;
+    }
+
+    function filter(){
+      const term = (q.value || "").trim().toLowerCase();
+      if(!term) return render(SONGS);
+
+      const filtered = SONGS.filter(s => {
+        const t = (s.title || "").toLowerCase();
+        const a = (s.artist || "").toLowerCase();
+        return t.includes(term) || a.includes(term);
+      });
+
+      render(filtered);
+    }
+
+    render(SONGS);
+    q.addEventListener("input", filter);
+  </script>
+</body>
+</html>
+
