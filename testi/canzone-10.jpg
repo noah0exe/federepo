@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Daisies – Justin Bieber</title>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <div class="wrap">
+    <div class="back">
+      <a href="../index.html">← Torna alla Home</a>
+    </div>
+
+    <h1 class="page-title">Daisies</h1>
+    <div class="small">Justin Bieber</div>
+
+    <div class="panel">
+      <div class="lyrics">
+[Verse 1]
+They told me I was out there
+Tried to knock me down
+Took those sticks and stones
+Showed 'em I could build a house
+They tell me I'm too crazy
+Love me or they leave me
+'Cause I won't apologize for the light in my eyes
+
+[Pre-Chorus]
+But they don't know what I know
+'Cause my pain made me grow
+And they don't say what I say
+'Bout the God who makes a way
+
+[Chorus]
+And I remember when they said I wouldn't make it far
+When they said I'd never have the keys to the car
+When they told me that the day would never come
+You still gave me daisies
+Daisies in a bulletproof vest
+And when they said my name, you said it with respect
+When they tried to burn me down, you were all I had left
+You still gave me daisies
+Daisies in a bulletproof vest
+
+[Verse 2]
+I know that life could be so crazy
+I know that love could make you lose your mind
+And I know that people try to change you
+From the outside in, but they can't define
+
+[Pre-Chorus]
+'Cause they don't know what I know
+'Cause my pain made me grow
+And they don't say what I say
+'Bout the God who makes a way
+
+[Chorus]
+And I remember when they said I wouldn't make it far
+When they said I'd never have the keys to the car
+When they told me that the day would never come
+You still gave me daisies
+Daisies in a bulletproof vest
+And when they said my name, you said it with respect
+When they tried to burn me down, you were all I had left
+You still gave me daisies
+Daisies in a bulletproof vest
+
+[Bridge]
+Ooh, ooh, ooh, ooh
+Ooh, ooh, ooh, ooh
+You still gave me daisies
+Daisies in a bulletproof vest
+
+[Chorus]
+And I remember when they said I wouldn't make it far
+When they said I'd never have the keys to the car
+When they told me that the day would never come
+You still gave me daisies
+Daisies in a bulletproof vest
+And when they said my name, you said it with respect
+When they tried to burn me down, you were all I had left
+You still gave me daisies
+Daisies in a bulletproof vest
+
+[Outro]
+You still gave me daisies
+Daisies in a bulletproof vest
+      </div>
+    </div>
+
+    <div class="footer">
+      Testo e musica: Justin Bieber © Tutti i diritti riservati.
+    </div>
+  </div>
+</body>
+</html>
