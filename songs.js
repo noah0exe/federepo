@@ -10,12 +10,12 @@ const SONGS = [
   { id: "canzone-9",  title: "I'm not the only one",  artist: "Sam Smith",  cover: "img/cover-9.jpg",  lyricsPage: "testi/canzone-9.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-10", title: "Daisies", artist: "Justin Bieber", cover: "img/cover-10.jpg", lyricsPage: "testi/canzone-10.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
 
-  { id: "canzone-11", title: "Titolo Canzone 11", artist: "Artista 11", cover: "img/cover-11.jpg", lyricsPage: "testi/canzone-11.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-12", title: "Titolo Canzone 12", artist: "Artista 12", cover: "img/cover-12.jpg", lyricsPage: "testi/canzone-12.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-13", title: "Titolo Canzone 13", artist: "Artista 13", cover: "img/cover-13.jpg", lyricsPage: "testi/canzone-13.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-14", title: "Titolo Canzone 14", artist: "Artista 14", cover: "img/cover-14.jpg", lyricsPage: "testi/canzone-14.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-15", title: "Titolo Canzone 15", artist: "Artista 15", cover: "img/cover-15.jpg", lyricsPage: "testi/canzone-15.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-16", title: "Titolo Canzone 16", artist: "Artista 16", cover: "img/cover-16.jpg", lyricsPage: "testi/canzone-16.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-11", title: "Yukon", artist: "Justin Bieber", cover: "img/cover-11.jpg", lyricsPage: "testi/canzone-11.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-12", title: "Fast Car", artist: "Justin Bieber", cover: "img/cover-12.jpg", lyricsPage: "testi/canzone-12.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-13", title: "Sorry", artist: "Justin Bieber", cover: "img/cover-13.jpg", lyricsPage: "testi/canzone-13.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-14", title: "Love Yourself", artist: "Justin Bieber", cover: "img/cover-14.jpg", lyricsPage: "testi/canzone-14.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-15", title: "Stay", artist: "Justin Bieber", cover: "img/cover-15.jpg", lyricsPage: "testi/canzone-15.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-16", title: "Peaches", artist: "Justin Bieber", cover: "img/cover-16.jpg", lyricsPage: "testi/canzone-16.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-17", title: "Titolo Canzone 17", artist: "Artista 17", cover: "img/cover-17.jpg", lyricsPage: "testi/canzone-17.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-18", title: "Titolo Canzone 18", artist: "Artista 18", cover: "img/cover-18.jpg", lyricsPage: "testi/canzone-18.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-19", title: "Titolo Canzone 19", artist: "Artista 19", cover: "img/cover-19.jpg", lyricsPage: "testi/canzone-19.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
@@ -43,6 +43,7 @@ const SONGS = [
   { id: "canzone-39", title: "Titolo Canzone 39", artist: "Artista 39", cover: "img/cover-39.jpg", lyricsPage: "testi/canzone-39.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-40", title: "Titolo Canzone 40", artist: "Artista 40", cover: "img/cover-40.jpg", lyricsPage: "testi/canzone-40.html", links:{ spotify:"#", apple:"#", youtube:"#"} }
 ];
+
 
 
 
