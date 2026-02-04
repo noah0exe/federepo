@@ -16,19 +16,19 @@ const SONGS = [
   { id: "canzone-14", title: "Love Yourself", artist: "Justin Bieber", cover: "img/cover-14.jpg", lyricsPage: "testi/canzone-14.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-15", title: "Stay", artist: "Justin Bieber", cover: "img/cover-15.jpg", lyricsPage: "testi/canzone-15.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-16", title: "Peaches", artist: "Justin Bieber", cover: "img/cover-16.jpg", lyricsPage: "testi/canzone-16.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-17", title: "Titolo Canzone 17", artist: "Artista 17", cover: "img/cover-17.jpg", lyricsPage: "testi/canzone-17.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-18", title: "Titolo Canzone 18", artist: "Artista 18", cover: "img/cover-18.jpg", lyricsPage: "testi/canzone-18.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-19", title: "Titolo Canzone 19", artist: "Artista 19", cover: "img/cover-19.jpg", lyricsPage: "testi/canzone-19.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-20", title: "Titolo Canzone 20", artist: "Artista 20", cover: "img/cover-20.jpg", lyricsPage: "testi/canzone-20.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-17", title: "Photograph", artist: "Ed Sheeran", cover: "img/cover-17.jpg", lyricsPage: "testi/canzone-17.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-18", title: "Shape of you", artist: "Ed Sheeran", cover: "img/cover-18.jpg", lyricsPage: "testi/canzone-18.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-19", title: "Perfect", artist: "Ed Sheeran", cover: "img/cover-19.jpg", lyricsPage: "testi/canzone-19.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-20", title: "Thinking out loud", artist: "Ed Sheeran", cover: "img/cover-20.jpg", lyricsPage: "testi/canzone-20.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
 
-  { id: "canzone-21", title: "Titolo Canzone 21", artist: "Artista 21", cover: "img/cover-21.jpg", lyricsPage: "testi/canzone-21.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-22", title: "Titolo Canzone 22", artist: "Artista 22", cover: "img/cover-22.jpg", lyricsPage: "testi/canzone-22.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-23", title: "Titolo Canzone 23", artist: "Artista 23", cover: "img/cover-23.jpg", lyricsPage: "testi/canzone-23.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-24", title: "Titolo Canzone 24", artist: "Artista 24", cover: "img/cover-24.jpg", lyricsPage: "testi/canzone-24.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-25", title: "Titolo Canzone 25", artist: "Artista 25", cover: "img/cover-25.jpg", lyricsPage: "testi/canzone-25.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-26", title: "Titolo Canzone 26", artist: "Artista 26", cover: "img/cover-26.jpg", lyricsPage: "testi/canzone-26.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-27", title: "Titolo Canzone 27", artist: "Artista 27", cover: "img/cover-27.jpg", lyricsPage: "testi/canzone-27.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-28", title: "Titolo Canzone 28", artist: "Artista 28", cover: "img/cover-28.jpg", lyricsPage: "testi/canzone-28.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-21", title: "Don't / Love yourself", artist: "Ed Sheeran", cover: "img/cover-21.jpg", lyricsPage: "testi/canzone-21.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-22", title: "The A Team", artist: "Ed Sheeran", cover: "img/cover-22.jpg", lyricsPage: "testi/canzone-22.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-23", title: "Lego House", artist: "Ed Sheeran", cover: "img/cover-23.jpg", lyricsPage: "testi/canzone-23.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-24", title: "She will be loved", artist: "Maroon 5", cover: "img/cover-24.jpg", lyricsPage: "testi/canzone-24.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-25", title: "Sunday Morning", artist: "Maroon 5", cover: "img/cover-25.jpg", lyricsPage: "testi/canzone-25.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-26", title: "This Love", artist: "Maroon 5", cover: "img/cover-26.jpg", lyricsPage: "testi/canzone-26.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-27", title: "Sugar", artist: "Maroon 5", cover: "img/cover-27.jpg", lyricsPage: "testi/canzone-27.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-28", title: "Girls like you", artist: "Maroon 5", cover: "img/cover-28.jpg", lyricsPage: "testi/canzone-28.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-29", title: "Titolo Canzone 29", artist: "Artista 29", cover: "img/cover-29.jpg", lyricsPage: "testi/canzone-29.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-30", title: "Titolo Canzone 30", artist: "Artista 30", cover: "img/cover-30.jpg", lyricsPage: "testi/canzone-30.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
 
@@ -43,6 +43,7 @@ const SONGS = [
   { id: "canzone-39", title: "Titolo Canzone 39", artist: "Artista 39", cover: "img/cover-39.jpg", lyricsPage: "testi/canzone-39.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-40", title: "Titolo Canzone 40", artist: "Artista 40", cover: "img/cover-40.jpg", lyricsPage: "testi/canzone-40.html", links:{ spotify:"#", apple:"#", youtube:"#"} }
 ];
+
 
 
 
