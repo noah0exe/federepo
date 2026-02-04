@@ -29,20 +29,23 @@ const SONGS = [
   { id: "canzone-26", title: "This Love", artist: "Maroon 5", cover: "img/cover-26.jpg", lyricsPage: "testi/canzone-26.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-27", title: "Sugar", artist: "Maroon 5", cover: "img/cover-27.jpg", lyricsPage: "testi/canzone-27.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-28", title: "Girls like you", artist: "Maroon 5", cover: "img/cover-28.jpg", lyricsPage: "testi/canzone-28.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-29", title: "Titolo Canzone 29", artist: "Artista 29", cover: "img/cover-29.jpg", lyricsPage: "testi/canzone-29.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-30", title: "Titolo Canzone 30", artist: "Artista 30", cover: "img/cover-30.jpg", lyricsPage: "testi/canzone-30.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-29", title: "Impossible", artist: "James Arthur", cover: "img/cover-29.jpg", lyricsPage: "testi/canzone-29.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-30", title: "Say you won't let go", artist: "James Arthur", cover: "img/cover-30.jpg", lyricsPage: "testi/canzone-30.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
 
-  { id: "canzone-31", title: "Titolo Canzone 31", artist: "Artista 31", cover: "img/cover-31.jpg", lyricsPage: "testi/canzone-31.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-32", title: "Titolo Canzone 32", artist: "Artista 32", cover: "img/cover-32.jpg", lyricsPage: "testi/canzone-32.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-33", title: "Titolo Canzone 33", artist: "Artista 33", cover: "img/cover-33.jpg", lyricsPage: "testi/canzone-33.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-34", title: "Titolo Canzone 34", artist: "Artista 34", cover: "img/cover-34.jpg", lyricsPage: "testi/canzone-34.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-35", title: "Titolo Canzone 35", artist: "Artista 35", cover: "img/cover-35.jpg", lyricsPage: "testi/canzone-35.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-36", title: "Titolo Canzone 36", artist: "Artista 36", cover: "img/cover-36.jpg", lyricsPage: "testi/canzone-36.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-37", title: "Titolo Canzone 37", artist: "Artista 37", cover: "img/cover-37.jpg", lyricsPage: "testi/canzone-37.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-38", title: "Titolo Canzone 38", artist: "Artista 38", cover: "img/cover-38.jpg", lyricsPage: "testi/canzone-38.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-39", title: "Titolo Canzone 39", artist: "Artista 39", cover: "img/cover-39.jpg", lyricsPage: "testi/canzone-39.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-40", title: "Titolo Canzone 40", artist: "Artista 40", cover: "img/cover-40.jpg", lyricsPage: "testi/canzone-40.html", links:{ spotify:"#", apple:"#", youtube:"#"} }
+  { id: "canzone-31", title: "Blinding Lights", artist: "The Weekend", cover: "img/cover-31.jpg", lyricsPage: "testi/canzone-31.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-32", title: "I feel it coming", artist: "The Weekend", cover: "img/cover-32.jpg", lyricsPage: "testi/canzone-32.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-33", title: "Get Lucky", artist: "The Weekend", cover: "img/cover-33.jpg", lyricsPage: "testi/canzone-33.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-34", title: "Can't feel my face", artist: "The Weekend4", cover: "img/cover-34.jpg", lyricsPage: "testi/canzone-34.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-35", title: "Circles", artist: "Post Malone", cover: "img/cover-35.jpg", lyricsPage: "testi/canzone-35.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-36", title: "Yellow", artist: "Coldplay", cover: "img/cover-36.jpg", lyricsPage: "testi/canzone-36.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-37", title: "The scientist", artist: "Coldplay", cover: "img/cover-37.jpg", lyricsPage: "testi/canzone-37.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-38", title: "Wonderwall", artist: "Oasis", cover: "img/cover-38.jpg", lyricsPage: "testi/canzone-38.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-39", title: "We don't talk anymore", artist: "Charlie Puth", cover: "img/cover-39.jpg", lyricsPage: "testi/canzone-39.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-40", title: "Isn't she lovely", artist: "Stevie Wonder", cover: "img/cover-40.jpg", lyricsPage: "testi/canzone-40.html", links:{ spotify:"#", apple:"#", youtube:"#"} }
+  { id: "canzone-41", title: "Superstition", artist: "Stevie Wonder", cover: "img/cover-41.jpg", lyricsPage: "testi/canzone-41.html", links:{ spotify:"#", apple:"#", youtube:"#"} }
+  { id: "canzone-42", title: "Bilie Jean", artist: "Michael Jackson", cover: "img/cover-42.jpg", lyricsPage: "testi/canzone-42.html", links:{ spotify:"#", apple:"#", youtube:"#"} }
 ];
+
 
 
 
