@@ -41,10 +41,11 @@ const SONGS = [
   { id: "canzone-37", title: "The scientist", artist: "Coldplay", cover: "img/cover-37.jpg", lyricsPage: "testi/canzone-37.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-38", title: "Wonderwall", artist: "Oasis", cover: "img/cover-38.jpg", lyricsPage: "testi/canzone-38.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-39", title: "We don't talk anymore", artist: "Charlie Puth", cover: "img/cover-39.jpg", lyricsPage: "testi/canzone-39.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-40", title: "Isn't she lovely", artist: "Stevie Wonder", cover: "img/cover-40.jpg", lyricsPage: "testi/canzone-40.html", links:{ spotify:"#", apple:"#", youtube:"#"} }
-  { id: "canzone-41", title: "Superstition", artist: "Stevie Wonder", cover: "img/cover-41.jpg", lyricsPage: "testi/canzone-41.html", links:{ spotify:"#", apple:"#", youtube:"#"} }
+  { id: "canzone-40", title: "Isn't she lovely", artist: "Stevie Wonder", cover: "img/cover-40.jpg", lyricsPage: "testi/canzone-40.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-41", title: "Superstition", artist: "Stevie Wonder", cover: "img/cover-41.jpg", lyricsPage: "testi/canzone-41.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-42", title: "Bilie Jean", artist: "Michael Jackson", cover: "img/cover-42.jpg", lyricsPage: "testi/canzone-42.html", links:{ spotify:"#", apple:"#", youtube:"#"} }
 ];
+
 
 
 
