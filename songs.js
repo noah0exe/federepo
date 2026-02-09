@@ -44,8 +44,9 @@ const SONGS = [
   { id: "canzone-40", title: "Isn't she lovely", artist: "Stevie Wonder", cover: "img/cover-40.jpg", lyricsPage: "testi/canzone-40.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-41", title: "Superstition", artist: "Stevie Wonder", cover: "img/cover-41.jpg", lyricsPage: "testi/canzone-41.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-42", title: "Bilie Jean", artist: "Michael Jackson", cover: "img/cover-42.jpg", lyricsPage: "testi/canzone-42.html", links:{ spotify:"#", apple:"#", youtube:"#"} }, 
-  { id: "canzone-43", title: "How to save a life", artist: "The Fray", cover: "img/cover-43.jpg", lyricsPage: "testi/canzone-43.html", links:{ spotify:"#", apple:"#", youtube:"#"} }
+  { id: "canzone-43", title: "How to save a life", artist: "The Fray", cover: "img/cover-43.jpg", lyricsPage: "testi/canzone-43.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
 ];
+
 
 
 
