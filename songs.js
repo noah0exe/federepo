@@ -35,7 +35,7 @@ const SONGS = [
   { id: "canzone-31", title: "Blinding Lights", artist: "The Weekend", cover: "img/cover-31.jpg", lyricsPage: "testi/canzone-31.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-32", title: "I feel it coming", artist: "The Weekend", cover: "img/cover-32.jpg", lyricsPage: "testi/canzone-32.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-33", title: "Get Lucky", artist: "The Weekend", cover: "img/cover-33.jpg", lyricsPage: "testi/canzone-33.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
-  { id: "canzone-34", title: "Can't feel my face", artist: "The Weekend4", cover: "img/cover-34.jpg", lyricsPage: "testi/canzone-34.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
+  { id: "canzone-34", title: "Can't feel my face", artist: "The Weekend", cover: "img/cover-34.jpg", lyricsPage: "testi/canzone-34.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-35", title: "Circles", artist: "Post Malone", cover: "img/cover-35.jpg", lyricsPage: "testi/canzone-35.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-36", title: "Yellow", artist: "Coldplay", cover: "img/cover-36.jpg", lyricsPage: "testi/canzone-36.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-37", title: "The scientist", artist: "Coldplay", cover: "img/cover-37.jpg", lyricsPage: "testi/canzone-37.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
@@ -45,6 +45,7 @@ const SONGS = [
   { id: "canzone-41", title: "Superstition", artist: "Stevie Wonder", cover: "img/cover-41.jpg", lyricsPage: "testi/canzone-41.html", links:{ spotify:"#", apple:"#", youtube:"#"} },
   { id: "canzone-42", title: "Bilie Jean", artist: "Michael Jackson", cover: "img/cover-42.jpg", lyricsPage: "testi/canzone-42.html", links:{ spotify:"#", apple:"#", youtube:"#"} }
 ];
+
 
 
 
